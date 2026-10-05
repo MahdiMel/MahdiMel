@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Mahdi Mel
 
-**Pre-Software Engineering Student @ISIMM**
-
-📍 Based in Touza, Monastir, TN
+**Pre-Software Engineering Student at ISIMM**
 
 I am a second-year pre-software engineering student with a strong interest in mastering software development. I enjoy building practical solutions, exploring system mechanics, and I'm currently seeking freelance or work-study opportunities to apply my skills in real-world scenarios.
 
@@ -13,7 +11,7 @@ I am a second-year pre-software engineering student with a strong interest in ma
 - **Databases & Data Engineering:** PostgreSQL, Supabase, Pandas
 - **Systems:** Ubuntu CLI, POSIX System Calls
 - **Robotics & Hardware:** Arduino UNO, ESP32, PC Hardware Maintenance
-- **Workflow & Soft Skills:** Event Management, Technical Communication, Adaptability, Problem-Solving
+- **Workflow & Soft Skills:** Problem-Solving, Technical Communication, Adaptability, Event Management, Travail en Equipe
 
 ### 🎓 Certifications
 - **Baccalauréat en Mathématiques** – Mention Bien
