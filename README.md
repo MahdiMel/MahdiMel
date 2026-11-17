@@ -15,7 +15,7 @@ I am a second-year pre-software engineering student with a strong interest in ma
 
 ### 🎓 Certifications
 - **Baccalauréat en Mathématiques** – Mention Bien
-- - **Explore Emerging Tech** – IBM SkillsBuild (Data, AI, Cloud, Cybersecurity, Quantum)
+- **Explore Emerging Tech** – IBM SkillsBuild (Data, AI, Cloud, Cybersecurity, Quantum)
 - **Data Analytics Essentials** – Cisco Networking Academy
 
 ### 🌍 Languages
